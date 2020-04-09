@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/tGodson/Apple-website-clone/092d17cf5a89a6ced7211e77078deb97fecbbc78/index.html)
+[Live Demo Link](https://rawcdn.githack.com/tGodson/Apple-website-clone/9353c6e87a2766b5f87f9ab91f09e0a19f97e053/index.html)
 
 
 
