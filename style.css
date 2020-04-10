@@ -117,3 +117,134 @@ html * {
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
   }
+
+  .banners {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    justify-content: start;
+    text-align: center;
+    margin-top: 2px;
+    min-width: 1024px;
+  }
+  
+  .banners a {
+    width: 25vw;
+    max-width: 360px;
+    min-width: 256px;
+  }
+  
+  .banner-1 {
+    background: url("./img/iphone5s.jpg") center no-repeat;
+    background-size: auto;
+  }
+  
+  .banner-2 {
+    background: url("./img/iphone5c.jpg") center no-repeat;
+    background-size: auto;
+  }
+  
+  .banner-3 {
+    background: url("./img/mac_birthday.jpg") center no-repeat;
+    background-size: auto;
+  }
+  
+  .banner-4 {
+    background: url("./img/supplier.jpg") center no-repeat;
+    background-size: auto;
+  }
+  
+  /** BANNERS STYLE END */
+  
+  /** FOOTER STYLE START */
+  
+  .footer {
+    font-family:
+      "Lucida Sans",
+      "Lucida Sans Regular",
+      "Lucida Grande",
+      "Lucida Sans Unicode",
+      Geneva,
+      Verdana,
+      sans-serif;
+    display: grid;
+    grid-template-columns: repeat(2, 490px);
+    width: 980px;
+    margin: 0 auto;
+  }
+  
+  .footer a {
+    color: rgb(28, 173, 209);
+  }
+  
+  .header-text p a {
+    color: transparent;
+    text-shadow: 0 0 1px #fff;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer div {
+    font-size: 10px;
+    line-height: 2.5em;
+    margin-top: 22px;
+    font-weight: 400 !important;
+    color: rgb(170, 168, 168);
+  }
+  
+  /** FOOTER STYLE END */
+  
+  /** MAIN TEXT STYLE START */
+  
+  .header-text {
+    font-size: 32px;
+    position: relative;
+    top: -30px;
+  }
+  
+  .header-text h1 {
+    font-size: 2em;
+    margin-top: 160px;
+    margin-bottom: 20px;
+    font-weight: 100;
+    color: transparent;
+    text-shadow: 0 0 1.5px #fff;
+  }
+    
+  .header-text p:first-of-type {
+    font-size: 1em;
+    line-height: 1.4em;
+    width: 830px;
+    margin: 25px auto;
+    text-shadow: 0 0 1.1px #fff;
+  }
+  
+  .header-text p:nth-of-type(2) {
+    font-size: 0.8em;
+    width: 600px;
+    margin: 25px auto;
+    background: url("./img/play-btn.png") top 1px right 15px no-repeat;
+    padding-right: 45px;
+    height: 29px;
+    cursor: pointer;
+  }
+  
+  .header-text p a:hover {
+    border-bottom: 1px outset #fff;
+    display: inline-block;
+  }
+  
+  /** MAIN TEXT STYLE END */
+  
+  /** FOOTER MENU STYLE START */
+  
+  .footer-menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+  }
+  
+  .footer-menu img {
+    height: 16px;
+  }
