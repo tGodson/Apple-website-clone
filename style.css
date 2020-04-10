@@ -152,11 +152,7 @@ html * {
     background: url("./img/supplier.jpg") center no-repeat;
     background-size: auto;
   }
-  
-  /** BANNERS STYLE END */
-  
-  /** FOOTER STYLE START */
-  
+ 
   .footer {
     font-family:
       "Lucida Sans",
@@ -193,9 +189,6 @@ html * {
     color: rgb(170, 168, 168);
   }
   
-  /** FOOTER STYLE END */
-  
-  /** MAIN TEXT STYLE START */
   
   .header-text {
     font-size: 32px;
@@ -234,10 +227,6 @@ html * {
     border-bottom: 1px outset #fff;
     display: inline-block;
   }
-  
-  /** MAIN TEXT STYLE END */
-  
-  /** FOOTER MENU STYLE START */
   
   .footer-menu {
     display: flex;
