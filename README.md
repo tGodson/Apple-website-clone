@@ -38,6 +38,8 @@ Give a ⭐️ if you like this project!
 - Had a lot of ideas looking at @hatemswaileh code during his code presectation
 - Inspiration - @hatemswaileh
 
+[![Is <username> available for hire?](http://hireable.me/<username>)](http://hireable.me/p/<username>)
+
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
