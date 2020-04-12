@@ -4,16 +4,16 @@
 
 ![screenshot](./app_screenshot.png)
 
-
 ## Built With
 
 - HTML,
 - CSS
+-Bootstrap
 
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/tGodson/Apple-website-clone/092d17cf5a89a6ced7211e77078deb97fecbbc78/index.html)
+[Live Demo Link](https://rawcdn.githack.com/tGodson/Apple-website-clone/9353c6e87a2766b5f87f9ab91f09e0a19f97e053/index.html)
 
 
 
@@ -37,6 +37,8 @@ Give a ⭐️ if you like this project!
 
 - Had a lot of ideas looking at @hatemswaileh code during his code presectation
 - Inspiration - @hatemswaileh
+
+[![Is <username> available for hire?](http://hireable.me/<username>)](http://hireable.me/p/<username>)
 
 ## 📝 License
 
