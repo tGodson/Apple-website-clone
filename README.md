@@ -2,7 +2,7 @@
 
 > Microverse Project: A replica of old Apple website webpage 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshot.PNG)
 
 ## Built With
 
